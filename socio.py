@@ -1,5 +1,5 @@
-class socio:
-    Maximo_libros = 3
+class Socio:
+    MAX_LIBROS = 3
 
     def __init__(self, nombre, dni):
         self.nombre = nombre
